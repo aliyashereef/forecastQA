@@ -1,0 +1,26 @@
+[
+  {
+    "weather_state_name": "Clear",
+    "the_temp": 35.775,
+    "wind_speed": 6.2593512984304995,
+    "humidity": 47
+  },
+  {
+    "weather_state_name": "Light Humid",
+    "the_temp": 33.41,
+    "wind_speed": 5.715707027450357,
+    "humidity": 59
+  },
+  {
+    "weather_state_name": "Cloudy",
+    "the_temp": 33.69,
+    "wind_speed": 4.873071034258597,
+    "humidity": 63
+  },
+  {
+    "weather_state_name": "Rainy",
+    "the_temp": 34.650000000000006,
+    "wind_speed": 5.050004562724356,
+    "humidity": 56
+  }
+]
