@@ -15,7 +15,7 @@ public class App {
             Scanner myObj = new Scanner(System.in);
             boolean run = true;
             System.out.print("\n");
-            System.out.println("forecast ");
+            System.out.println("forecast:");
             String str= myObj.nextLine();
             while (run) {
                 Retrofit retrofit = new Retrofit.Builder()
